@@ -55,11 +55,24 @@ Hello! My name is Trương Huy Trung (Trung Truong). I'm a Vietnamese graduate s
 <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/debian-d70a53?style=for-the-badge&logo=windows&logoColor=white">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=trungtruong1&theme=react&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trungtruong1&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=trungtruong1&hide_border=false&hide_rank=true&show_icons=true&count_private=true&theme=react&bg_color=151515">
+</p>
 
-### ✍️ Favorite Quote
-![](https://quotes-github-readme.vercel.app/api?quote=Có%20vẻ%20không%20challenging%20lắm&type=horizontal&theme=dark&author=Vanh)
+## 💻 Used Programming Languages
+
+<p align="center">
+  <a href="https://github.com/trungtruong1">      
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtruong1&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</a> 
+</p>
+
+## ✍️ Favorite Quote
+
+<p align="center">  
+<img src="https://quotes-github-readme.vercel.app/api?quote=Có%20vẻ%20không%20challenging%20lắm&type=horizontal&theme=nord&author=Vanh&border=true"/>
+</a> 
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
