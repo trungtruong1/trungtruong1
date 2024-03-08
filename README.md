@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trungtruong1&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Có+vẻ+không+challenging+lắm)
+![](https://quotes-github-readme.vercel.app/api?quote=Có%vẻ%không%challenging%lắm?type=horizontal&theme=dark)
 
 
 
