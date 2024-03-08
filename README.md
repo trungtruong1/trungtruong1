@@ -1,5 +1,7 @@
 
-![Header](./header.gif)
+<p align="center">  
+<img src="./header.gif"/>
+</p>
 
 ## 💡 Introduction
 
@@ -72,7 +74,6 @@ Hello! My name is Trương Huy Trung (Trung Truong). I'm a Vietnamese graduate s
 
 <p align="center">  
 <img src="https://quotes-github-readme.vercel.app/api?quote=Có%20vẻ%20không%20challenging%20lắm&type=horizontal&theme=nord&author=Vanh&border=true"/>
-</a> 
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
