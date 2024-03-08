@@ -10,9 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trungtruong1&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote="Có vẻ không challenging lắm")
 
----
-[![](https://visitcount.itsvg.in/api?id=trungtruong1&icon=2&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
