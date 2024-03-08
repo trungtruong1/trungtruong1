@@ -27,7 +27,7 @@ Hello! My name is Trương Huy Trung (Trung Truong). I'm a Vietnamese graduate s
 ## 🔬 Work (Past and Current)
 
 <a href="https://www.sapogo.com/">
-<img src="https://img.shields.io/badge/Software Dev Intern (2021) - SAPO TECHNOLOGY JSC-0fd186?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software Dev Intern (2022) - SAPO TECHNOLOGY JSC-0fd186?style=for-the-badge"/>
 </a>
 <br>
 <a href="https://github.com/UNIST-LOFT">
