@@ -5,7 +5,7 @@
 
 ## 💡 Introduction
 
-Hello! My name is Trương Huy Trung (Trung Truong). I'm a Vietnamese software enthusiast 👋
+Hello! My name is Trương Huy Trung (Trung Truong). I'm a Vietnamese👋
 
 ## 📚 Education 
 
